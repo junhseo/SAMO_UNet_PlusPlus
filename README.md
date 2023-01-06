@@ -1,8 +1,8 @@
 # SAMO_UNet_PlusPlus
 Repository for sharing the codes and data for <br />
-Seo, J., Kapania, R.K. <br />
-Topology optimization with advanced CNN using mapped physics-based data.<br /> 
-Struct Multidisc Optim 66, 21 (2023). https://doi.org/10.1007/s00158-022-03461-0 <br />
+**Seo, J., Kapania, R.K.** <br />
+**Topology optimization with advanced CNN using mapped physics-based data.**<br /> 
+**Struct Multidisc Optim 66, 21 (2023). https://doi.org/10.1007/s00158-022-03461-0 **<br />
 
 ![image](https://user-images.githubusercontent.com/48101303/211036179-3278fd04-86fb-44a5-803c-566ef0f39ff7.png)<br />
 
